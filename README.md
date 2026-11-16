@@ -70,7 +70,8 @@ To create orthographic view of given 3D model
 <img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/41558a2b-9de2-4f83-bf04-76e69672ef83" />
 
 ## OUTPUT
-![Uploading Screenshot (52).png…]()
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/d8e543db-c3a7-4a6d-a577-9f2c9917896c" />
+
 
 
 ## RESULT:
